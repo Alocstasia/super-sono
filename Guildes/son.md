@@ -1,9 +1,10 @@
 # Guilde des Sonorisateurs
 
-Savance | Sagesse
+Savants | Sages
 
 ## Traits
-- Perfectionnistes
+Perfectionnistes
 
 ## Aptitudes
-Maîtrise du son, des fréquences
+- Maîtrise du son
+- Capables de contrôler les êtres et/ou les objets à l'aide des fréquences
