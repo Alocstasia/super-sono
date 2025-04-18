@@ -6,7 +6,9 @@
 ### Dans un dossier existant
 1. Sélectionner le dossier désiré
 2. Cliquer sur `+` sous l'onglet `Files` (à gauche)
-3. Choisir un nom pour le fichier (éviter les espaces en utilisant `-` ou `_`)
+3. Choisir un nom pour le fichier
+   - Éviter les espaces en utilisant `-` ou `_`
+   - Éviter les accents
 4. Ajouter l'extension
 
 ### Dans un nouveau dossier
@@ -32,4 +34,4 @@
 > `- Qui est le [Sonorisateur Suprême](./Personnages/sono-suprême.md)?`
 >
 > Devient:
-> - Qui est le [Sonorisateur Suprême](./Personnages/sono-suprême.md)?
+> - Qui est le [Sonorisateur Suprême](./Personnages/sononorisateur-supreme.md)?
