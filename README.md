@@ -9,11 +9,11 @@ Un guide pour la création de l'univers du Sonorisateur Suprême!
 
 ## Table
 
-[Notes éparpillées](Notes/notes_éparpillées.md)
+[Notes éparpillées](Notes/notes_mix.md)
 
 ### Personnages
-- Sonorisateur Suprême
-- Empereur Nexo
+- [Sonorisateur Suprême](Personnages/sonorisateur-supreme.md)
+- [Empereur Nexo](Personnages/nexo.md)
 
 ### Lieux
 #### Pays
@@ -30,7 +30,7 @@ Un guide pour la création de l'univers du Sonorisateur Suprême!
 - Riggers / Barbares
 - Prod / Royauté ou Noblesse
 - DJ / Voleurs ou Tricksters
-- ~~Musiciens?~~
+- Musiciens?
   
 ### Technologie
 #### Armes
