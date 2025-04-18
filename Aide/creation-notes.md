@@ -34,4 +34,4 @@
 > `- Qui est le [Sonorisateur Suprême](../Personnages/sono-suprême.md)?`
 >
 > Devient:
-> - Qui est le [Sonorisateur Suprême](../Personnages/sononorisateur-supreme.md)?
+> - Qui est le [Sonorisateur Suprême](../Personnages/sonorisateur-supreme.md)?
