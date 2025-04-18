@@ -61,7 +61,5 @@
 - The Soolid State of Logic? (SSL country...)
 
 ## Personnages
-- Le Sonorisateur Suprême
 - Le Diable Feedback
-- Empereur Nexo
 - Vieux Serpent (vielle snake tordue), viel ami, peut-être comme Clarota
