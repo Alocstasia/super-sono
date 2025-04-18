@@ -1,18 +1,4 @@
-# Notes éparpillées
-
-## Empereur Nexo
-- Palais en forme de subwoofer (structure interne)
-- Plafond du hall d'entrée en angle avec speakers, pattern répété
-
-  > Images à venir...
-
-- Couleurs mauve et noir? Orange et noir? Les 3? Voir images.
-
-  > Images à venir...
-
-- Idées de motifs répété pour le plancher (plan du sub vu de haut). Fait penser au tapis dans *The Shining*
-
-  > Images à venir...
+# Notes à trier...
 
 ## Armée de DJ
 - Speakers qui sortent des épaules / armure comme *Prédateur*
@@ -58,8 +44,8 @@
 ## Lieux
 - Shure shire
 - Yamaha valley
-- The Soolid State of Logic? (SSL country...)
+- The Solid State of Logic? (SSL country...) ou Liquid State of Logic?
 
 ## Personnages
-- Le Diable Feedback
-- Vieux Serpent (vielle snake tordue), viel ami, peut-être comme Clarota
+- Le Diable Feedback, toujours présent. Ennemi ou allié déguisé? Une menace, oui, mais le chasser fait en sorte que ça sonne mieux...?
+- Vieux Serpent (vielle snake tordue), viel ami, peut-être comme Clarota, bossu de Notre-Dame
