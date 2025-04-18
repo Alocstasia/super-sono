@@ -1,4 +1,4 @@
-# super-sono
+# Le Sonorisateur Suprême
 Un guide pour la création de l'univers du Sonorisateur Suprême!
 
 ---
