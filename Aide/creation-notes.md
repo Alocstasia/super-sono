@@ -26,12 +26,12 @@
 1. Placer texte désiré entre `[ ]` pour le convertir en lien
 2. Ajouter l'arborescence, existante ou non, entre `( )`
    - Séparer les dossiers par `/`
-   - Utiliser `./` pour sortir d'un dossier
+   - Utiliser `../` pour sortir d'un dossier
 3. Créer la note en utilisant les étapes plus hautes
 
 > Ex.
 >
-> `- Qui est le [Sonorisateur Suprême](./Personnages/sono-suprême.md)?`
+> `- Qui est le [Sonorisateur Suprême](../Personnages/sono-suprême.md)?`
 >
 > Devient:
-> - Qui est le [Sonorisateur Suprême](./Personnages/sononorisateur-supreme.md)?
+> - Qui est le [Sonorisateur Suprême](../Personnages/sononorisateur-supreme.md)?
