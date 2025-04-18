@@ -3,13 +3,13 @@ Un guide pour la création de l'univers du Sonorisateur Suprême!
 
 ---
 
-[Markdown Cheat Sheet](Références/markdown_cheat_sheet.md)
+[Markdown Cheat Sheet](Références/md_cheat_sheet.md)
 
 ---
 
 ## Table
 
-[Notes éparpillées]()
+[Notes éparpillées](Notes/notes_éparpillées.md)
 
 ### Personnages
 
