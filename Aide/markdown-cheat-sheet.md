@@ -1,6 +1,6 @@
 # Markdown Cheat Sheet
 
-> Pour plus de détails sur la création de notes/pages et de leurs liens respectifs, voir [ici](création-notes.md)
+> Pour plus de détails sur la création de notes/pages et de leurs liens respectifs, voir [ici](creation-notes.md)
 
 > Pour plus de détails sur le Markdown en général, voir <https://www.markdownguide.org/cheat-sheet/>
 
