@@ -3,7 +3,9 @@ Un guide pour la création de l'univers du Sonorisateur Suprême!
 
 ---
 
-[Markdown Cheat Sheet](Références/md_cheat_sheet.md)
+[Nouvelles notes ou pages](Aide/creation-notes.md)
+
+[Markdown Cheat Sheet](Aide/markdown-cheat-sheet.md)
 
 ---
 
