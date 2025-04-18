@@ -25,7 +25,7 @@
 
 ### Éclairage
 - Illuminati, Éclairopathes, Luminophiles
-- Maîtres de la Lumiêre
+- Maîtres de la Lumière
 - Junkies, se drogues au gaz dans les ampoules / fluorescents
   -  Brisent des ampoules pour «sniffer» l'intérieur
   -  Yeux qui illuminent après leur fix (*smelly salts* des *hommes forts*)
