@@ -13,11 +13,16 @@ Un guide pour la création de l'univers du Sonorisateur Suprême!
 
 ### Personnages
 - Sonorisateur Suprême
+- Empereur Nexo
 
 ### Lieux
-- Bar La Barre à 6, où les Éclairopathes se rassemblent pour se droguer au gaz lumineux
+#### Pays
 
-### Factions/Guildes
+#### Constructions
+- [Bar La Barre à 6](Lieux/Constructions/bar-6.md)
+- [Palais de l'empereur Nexo](Lieux/Constructions/palais-nexo.md)
+
+### Factions / Guildes
 - Sonorisateurs / Savants
 - Éclairopathes / Junkies
 - Vidéo / Gatekeepers
@@ -25,7 +30,7 @@ Un guide pour la création de l'univers du Sonorisateur Suprême!
 - Riggers / Barbares
 - Prod / Royauté ou Noblesse
 - DJ / Voleurs ou Tricksters
-- Musiciens
+- ~~Musiciens?~~
   
 ### Technologie
 #### Armes
@@ -33,15 +38,22 @@ Un guide pour la création de l'univers du Sonorisateur Suprême!
 #### Véhicules
 
 #### Vie courante
-  
-### Croyances
-#### Mythologie(s)
 
-#### Science
+### Mythologie
+- Testament du Sonorisateur Suprême
+- Prières au Sonorisateur
 
-### Règles de l'univers
+### Science / Magie
 
-### Épreuves et +
+### Société / Gouvernement
+
+---
+
+### Épreuves / Évènements
+- Combat contre l'armée de DJs
+- Menace constante du Feedback
 
 ### Histoires possibles
 - À la recherche de la DI perdue
+
+
