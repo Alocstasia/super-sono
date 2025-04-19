@@ -4,7 +4,12 @@ Guilde Vidéo
 
 Gatekeepers | Big Brother
 
-## Traits
+## Caractéristiques
+- Habitent dans des salles d'aiguillage, câbles partout
+
+![Exemple 1](../Images/Video/vdo-home-001.jpg)
+![Exemple 2](../Images/Video/vdo-home-002.jpg)
+![Exemple 3](../Images/Video/vdo-home-003.jpg)
 
 ## Aptitudes
 - Maîtrise du Time Code

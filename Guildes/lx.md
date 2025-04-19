@@ -6,7 +6,7 @@ Trouver un nom...
 - [ ] Luxiens
 - [ ] Luminophiles
 
-## Traits
+## Caractéristiques
 - Crinqués
 - Junkies
 - Dictateurs
@@ -18,7 +18,7 @@ Trouver un nom...
 
 ---
 
-## Junkies
+## Drogue
 - Brisent des ampoules/tube fluorescents pour « sniffer » le gaz
 - Yeux qui illuminent une fois drogués
 - Hallucinations multicolores style LSD/MDMA (plein de couleurs)

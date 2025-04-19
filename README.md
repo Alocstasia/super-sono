@@ -25,7 +25,7 @@ Un guide pour la création de l'univers du Sonorisateur Suprême!
 - [Palais de l'empereur Nexo](Lieux/Constructions/palais-nexo.md)
 
 ### Factions / Guildes
-- Sonorisateurs / Savants
+- Sonorisateurs / Messagers
 - Éclairopathes / Junkies
 - Vidéo / Gatekeepers
 - Machinistes / Soldats et Travailleurs

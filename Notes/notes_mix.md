@@ -12,34 +12,12 @@
 - Table DJ hologramme
 - Sont voleurs / grippe-sous / bandits...
 
-## Mythologie? Guildes ou factions?
-### Sonorisateurs :
-- Maîtres du Son
-- Possibilité de faire bouger les objets à l'aide des ondes sonores (à l'instar des légendes entourant les moines tibétains)
+## Mythologie
+- Feedback : être ou force?
+- Nico : dieu en personne? Prophète/messager?
 
-### Vidéo
-- Maîtres du Time Code
-- Écrans vidéos faisant office de portails
-- Projecteurs comme arme dans *Portal* qui ouvre la voie vers un autre endroit, un autre univers
-- Les gatekeepers, maître des clés (portails, réseau, l'oeil qui voit tout, Big Brother)
-
-### Éclairage
-- Illuminati, Éclairopathes, Luminophiles
-- Maîtres de la Lumière
-- Junkies, se drogues au gaz dans les ampoules / fluorescents
-  -  Brisent des ampoules pour «sniffer» l'intérieur
-  -  Yeux qui illuminent après leur fix (*smelly salts* des *hommes forts*)
-  -  Ampoules de plus en plu rares, shortage des fabriquants / dealers, certaine animosité qui s'installe
-
-### Machinistes
-- Infanterie, soldats, guerriers, pions, mineurs, travailleurs
-
-### Riggers
-- Barbares
-- Habits / armure principalement en chaînes
-- Force brute
-- Graisse plein le visage
-- Cri super-puissant qui traverse (le pays?)
+## Technologie
+Plus en mode fantasy avec moyens et instruments plus archaïques, genre Moyen-Âge avec magie? SF dans un univers plus futuriste genre **Cyberpunk**? Un mélange des deux?
 
 ## Lieux
 - Shure shire
@@ -47,5 +25,5 @@
 - The Solid State of Logic? (SSL country...) ou Liquid State of Logic?
 
 ## Personnages
-- Le Diable Feedback, toujours présent. Ennemi ou allié déguisé? Une menace, oui, mais le chasser fait en sorte que ça sonne mieux...?
-- Vieux Serpent (vielle snake tordue), viel ami, peut-être comme Clarota, bossu de Notre-Dame
+- Le Diable Feedback, le Malin, l'Éternel Retour. On peut l'apaiser/dompter mais pas l'éliminer. Ennemi juré (némésis) du Sonorisateur Suprême ou allié déguisé? Une menace, certe, mais le chasser fait en sorte que ça sonne mieux...?
+- Vieux Serpent (vielle snake tordue), vieil ami, peut-être comme Clarota, bossu de Notre-Dame
