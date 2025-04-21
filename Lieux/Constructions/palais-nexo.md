@@ -1,6 +1,7 @@
 # Palais de l'empereur Nexo
 
 QG de l'Empereur
+
 Lieu où jadis s'est entraîné le Sonorisateur Suprème?
 
 ## Structure
