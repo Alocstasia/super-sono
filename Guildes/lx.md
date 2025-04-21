@@ -20,7 +20,7 @@ Trouver un nom...
 
 ## Drogue
 - Brisent des ampoules/tube fluorescents pour « sniffer » le gaz
-- Yeux qui illuminent une fois drogués
+- Yeux qui illuminent une fois drogués, ou qui projettent de la lumière/un laser comme **Cyclop** dans les *X-Men*?
 - Hallucinations multicolores style LSD/MDMA (plein de couleurs)
 - Un trip de **G.E.L.** ? Ou juste se *geler* ?
 

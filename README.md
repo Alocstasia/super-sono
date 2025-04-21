@@ -25,13 +25,13 @@ Un guide pour la création de l'univers du Sonorisateur Suprême!
 - [Palais de l'empereur Nexo](Lieux/Constructions/palais-nexo.md)
 
 ### Factions / Guildes
-- Sonorisateurs / Messagers
-- Éclairopathes / Junkies
-- Vidéo / Gatekeepers
-- Machinistes / Soldats et Travailleurs
-- Riggers / Barbares
-- Prod / Royauté ou Noblesse
-- DJ / Voleurs ou Tricksters
+- [Sonorisateurs / Messagers](Guildes/son.md)
+- [Éclairopathes / Junkies](Guildes/lx.md)
+- [Vidéo / Gatekeepers](Guildes/video.md)
+- [Machinistes / Soldats et Travailleurs](Guildes/machin.md)
+- [Riggers / Barbares](Guildes/rig.md)
+- [Prod / Royauté ou Noblesse](Guildes/prod.md)
+- [DJ / Voleurs ou Tricksters](Guildes/dj.md)
 - Musiciens?
   
 ### Technologie
