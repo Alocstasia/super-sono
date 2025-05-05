@@ -33,6 +33,7 @@ Un guide pour la création de l'univers du Sonorisateur Suprême!
 - [Prod / Royauté ou Noblesse](Guildes/prod.md)
 - [DJ / Voleurs ou Tricksters](Guildes/dj.md)
 - Musiciens?
+- Changement
   
 ### Technologie
 #### Armes
