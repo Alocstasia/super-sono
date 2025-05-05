@@ -84,6 +84,8 @@ Pardonne-nous nos feedbacks, comme nous pardonnons aussi à ceux qui ont mal cha
 
 ## Notes
 
+Ô Sonorisateur, que ton nom soit amplifié...
+
 Cœurs sensibles et pacemaker : à développer.
 
 Les limbes des holders brisés.
