@@ -17,3 +17,4 @@ Gatekeepers | Big Brother
 - Projecteurs vidéos qui ouvrent des portails (comme jeu **Portal**)
 - Des portails physiques (forme de téléportation) ou voyage dans le temps (Time Code)
 - Gardiens du Réseau, maîtres des clés
+- Lien à faire avec BlackMagic
