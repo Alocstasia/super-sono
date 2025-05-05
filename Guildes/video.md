@@ -18,3 +18,4 @@ Gatekeepers | Big Brother
 - Des portails physiques (forme de téléportation) ou voyage dans le temps (Time Code)
 - Gardiens du Réseau, maîtres des clés
 - Lien à faire avec BlackMagic
+- Utilisent la Xvision
